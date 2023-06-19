@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "username": "updateduser",
+      "phoneNumber": "9876543210",
+      "email": "updateduser@example.com",
+      "nickname": "Updated",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "username": "alex789",
+      "phoneNumber": "5555555555",
+      "email": "alex@example.com",
+      "nickname": "Lex"
+    },
+    {
+      "id": 4,
+      "username": "sara111",
+      "phoneNumber": "1111111111",
+      "email": "sara@example.com",
+      "nickname": "Sari"
+    },
+    {
+      "id": 5,
+      "username": "mike222",
+      "phoneNumber": "2222222222",
+      "email": "mike@example.com",
+      "nickname": "Mikey"
+    },
+    {
+      "id": 6,
+      "username": "lucy333",
+      "phoneNumber": "3333333333",
+      "email": "lucy@example.com",
+      "nickname": "Lu"
+    },
+    {
+      "id": 7,
+      "username": "david444",
+      "phoneNumber": "4444444444",
+      "email": "david@example.com",
+      "nickname": "Dave"
+    },
+    {
+      "id": 8,
+      "username": "emily555",
+      "phoneNumber": "5555555555",
+      "email": "emily@example.com",
+      "nickname": "Em"
+    },
+    {
+      "id": 9,
+      "username": "olivia666",
+      "phoneNumber": "6666666666",
+      "email": "olivia@example.com",
+      "nickname": "Liv"
+    },
+    {
+      "id": 10,
+      "username": "ben777",
+      "phoneNumber": "7777777777",
+      "email": "ben@example.com",
+      "nickname": "Benny"
+    },
+    {
+      "id": 11,
+      "username": "davi",
+      "phoneNumber": "44444",
+      "email": "dav@example.com",
+      "nickname": "Dav"
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 14
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 19
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 20
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 23
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 24
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 28
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 29
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 30
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 31
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 32
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 33
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 34
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 36
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 37
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 38
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 40
+    },
+    {
+      "username": "testuser",
+      "phoneNumber": "1234567890",
+      "email": "testuser@example.com",
+      "nickname": "Test",
+      "id": 41
+    }
+  ],
+  "posts": [
+    {
+      "bookName": "updated Name ",
+      "about": "updated ",
+      "id": 3
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "bookName": "The Hobbit",
+      "about": "A fantasy novel by J.R.R. Tolkien."
+    },
+    {
+      "id": 8,
+      "userId": 8,
+      "bookName": "To Kill a Mockingbird",
+      "about": "A Pulitzer Prize-winning novel by Harper Lee."
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "bookName": "The Lord of the Rings",
+      "about": "A high fantasy novel by J.R.R. Tolkien."
+    }
+  ]
+}
